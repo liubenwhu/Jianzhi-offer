@@ -101,7 +101,7 @@ void Test(char* testName, int* preorder, int* inorder, int length)
     }
     catch(std::exception& exception)
     {
-        printf("Invalid Input.\n");
+        printf("Invalid Inputddd.\n");
     }
 }
 
